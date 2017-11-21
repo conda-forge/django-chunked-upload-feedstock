@@ -1,6 +1,6 @@
 {% set name = "django-chunked-upload" %}
-{% set version = "1.0.4" %}
-{% set sha256 = "eccb6ed1e2e111341cffc0bc8611e9da99d5d40c2811f2de233e318d6b06ce2b" %}
+{% set version = "1.1.2" %}
+{% set sha256 = "1bb657609250c5c2329eebc7d009e9b8f24099701c114752de16ef89acf20ae3" %}
 
 package:
   name: {{ name|lower }}
